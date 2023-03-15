@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/mahadi-devo/jitsi-ios-custom-sdk.git', :tag => s.version }
   s.platform         = :ios, '12.0'
   s.swift_version    = '5'
-  s.vendored_frameworks = 'Frameworks/JitsiMeetSDK.xcframework'
+  s.vendored_frameworks = 'JitsiMeetSDK.xcframework'
   s.dependency 'Giphy', '2.1.20'
   s.dependency 'JitsiWebRTC', '~> 106.0'
 end
