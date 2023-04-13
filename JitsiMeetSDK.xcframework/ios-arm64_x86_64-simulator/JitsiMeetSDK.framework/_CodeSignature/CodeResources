@@ -6,7 +6,7 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		LvsR/ub1hBzCgbFOlqO/OZ4xJeY=
+		srPCio1WNfmbeSG5ZcIrkH1Rdyo=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -27,7 +27,7 @@
 		</data>
 		<key>GoogleSignIn.bundle/Info.plist</key>
 		<data>
-		RD8hxqlYCGX9uJCldfZTG7s52rw=
+		Ux653nx0ICfSOB+dSGxlzfgtK70=
 		</data>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -437,7 +437,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		55at4DhpqOzttCdw5GNEhCVFIUs=
+		9SjdM+lYbQV1z3TJ6sU2Nn48NAA=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -649,7 +649,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		e/5b7vCcZhFyyvjqCTAbZ6ugngo=
+		nUKdCP9GJwWTkc+YitteHxVmGPQ=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -802,7 +802,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/mI1kcoKQFnqIbHfEX/q2TiMbOVl66A75THWQIHCJyo=
+			PSVOmF/7ZRuke2yQe1Isc5NERqMS4ey37kAdeZ8u6ck=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -832,7 +832,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			chTddTMG4pxDpzNO4zpDxCZUzEfXSF2XKFsYugqX+Mw=
+			WfhuKtsWKlfGdwlULwO2TuKe2GnRzcgt/ERnIz06sQ0=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
@@ -1657,7 +1657,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hCVJi0at+dbZPHzcvePIui540KMSUyRqDmjh/ctAhrg=
+			Ni//YqhJOr3APZL+/0YX1gUreg+qtbqI5WogDN5zQIQ=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
