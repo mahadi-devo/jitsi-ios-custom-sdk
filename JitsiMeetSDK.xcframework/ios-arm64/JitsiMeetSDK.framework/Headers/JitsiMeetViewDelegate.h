@@ -116,4 +116,9 @@
  */
 - (void)readyToClose:(NSDictionary *)data;
 
+/**
+ * Called when the extend chat request is pressed.
+ */
+- (void)extendChatRequest:(NSDictionary *)data;
+
 @end
