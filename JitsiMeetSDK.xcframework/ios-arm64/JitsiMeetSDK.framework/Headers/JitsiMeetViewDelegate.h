@@ -117,8 +117,8 @@
 - (void)readyToClose:(NSDictionary *)data;
 
 /**
- * Called when the extend chat request is pressed.
+ * Hello Tiger Request Manager
  */
-- (void)extendChatRequest:(NSDictionary *)data;
+- (void)helloTigerRequest:(NSDictionary *)data;
 
 @end

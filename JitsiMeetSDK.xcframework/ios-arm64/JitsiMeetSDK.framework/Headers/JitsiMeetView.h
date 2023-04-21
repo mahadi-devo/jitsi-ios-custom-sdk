@@ -46,6 +46,7 @@
 - (void)sendChatMessage:(NSString *_Nonnull)message:(NSString *_Nullable)to;
 - (void)setVideoMuted:(BOOL)muted;
 - (void)setClosedCaptionsEnabled:(BOOL)enabled;
-- (void)extendChatResponse:(BOOL)status;
+- (void)helloTigerResponse:(NSString *_Nonnull)event:(BOOL)status
+                          :(nullable NSDictionary *)data;
 
 @end
